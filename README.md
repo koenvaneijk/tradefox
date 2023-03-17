@@ -1,6 +1,6 @@
 # TradeFox
 
-TradeFox's goal is to automates digital asset trading on various exchanges. It is a work in progress and is not ready for production use.
+TradeFox's goal is to automate digital asset trading on various exchanges. It is a work in progress and is not ready for production use.
 
 The project is currently __work in progress__.
 
